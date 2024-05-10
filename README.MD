@@ -56,7 +56,7 @@ You can read it by pressing the Read Tutorial button at the top of this README.M
 
 1. I'm Korean. 🇰🇷
 
-2. I'm an ISTJ.
+2. My MBTI is INTJ.
 3. I like Stylophone.
 4. I like a game called Minecraft.
 5. I am grateful that you are reading this tutorial.

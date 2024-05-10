@@ -17,7 +17,7 @@
 
 ## 4. 어떻게 자습서를 읽을 수 있나요?
 
-이 README.MD 파일의 최상단에 있는 자습서 읽기 버튼을 누르거나 여기를 누르면 읽을 수 있어요.
+이 README.MD 파일의 최상단에 있는 자습서 읽기 버튼을 누르면 읽을 수 있어요.
 
 ## 5. 작성자 TMI
 
@@ -51,7 +51,7 @@ I was browsing the internet and saw a lot of interesting repositories on Github,
 
 ## 4. How can I read the tutorial?
 
-You can read it by pressing the Read Tutorial button at the top of this README.MD file or by clicking here.
+You can read it by pressing the Read Tutorial button at the top of this README.MD file.
 
 ## 5. Author TMI
 

@@ -1,4 +1,4 @@
-![readbutton](./tutorial-assets/read-tutorial-button.png)
+[![readbutton](./tutorial-assets/read-tutorial-button.png)](https://example.com)
 # Stylophone 자습서(Korean)
 
 이 자습서는 여러분이 Stylophone을 배우는데 도움을 줄 수 있습니다.
